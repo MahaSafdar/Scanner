@@ -93,16 +93,22 @@ This tool provides:
 
 ## Demo
 Dashboard: 
+
 <img width="940" height="377" alt="image" src="https://github.com/user-attachments/assets/59c7774c-46b2-483e-b26c-e7dc52a0d3fa" />
 
+
+
 Scan History Page:
+
 <img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/55b142f7-8750-4af3-a77f-4cddbe1fee24" />
 
 Scan Details:
+
 <img width="940" height="709" alt="image" src="https://github.com/user-attachments/assets/02035dd0-aa23-4f1a-8470-800c5ed18ce5" />
 
-Setting:
-<img width="940" height="709" alt="image" src="https://github.com/user-attachments/assets/a82b1cbb-9a63-4d53-813d-90546e96d656" />
+Settings:
+
+<img width="940" height="557" alt="image" src="https://github.com/user-attachments/assets/e8abc5b3-a28f-40eb-a5bf-dd80639c3207" />
 
 
 
