@@ -1,4 +1,4 @@
-# ProScanner – Automated Network Vulnerability Scanner
+# Automated Network Vulnerability Scanner
 
 ProScanner is a C#-based automated vulnerability scanner designed to streamline network security assessments. It integrates port scanning, service detection, and vulnerability analysis into a unified desktop application with an intuitive graphical interface. The tool automates traditionally manual and time-consuming scanning workflows, enabling efficient security evaluation for small and medium-sized networks.
 
